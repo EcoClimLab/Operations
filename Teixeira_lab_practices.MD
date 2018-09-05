@@ -13,8 +13,8 @@ This is a working document, and lab procedures are subject to change. Lab member
   - Github: data, code, and results. Access to the Github repository will be given to lab members working on data production and analysis. GitHub is also used to manage scientific workflow/ track "issues". 
   - Dropbox: manuscript, references, other supporting documents. Access to the Dropbox repository will be given to all project collaborators.
 - Data work is separated into two distinct (but often closely integrated) phases:
-  - Data creation- This phase consists of collecting, entering, and checking data. Data creators are responsible to correct data errors/ provide updated versions.
-  - Data analysis- This phase consists of preparing code to analyze raw data files. Data analysts do not change the original files – everything goes in the script. Ideally, all data processing is automated, such that script can generate figures and tables for publication by running a single script. 
+  - [Data creation](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/tree/master)- This phase consists of collecting, entering, and checking data. Data creators are responsible to correct data errors/ provide updated versions.
+  - [Data analysis]()- This phase consists of preparing code to analyze raw data files. Data analysts do not change the original files – everything goes in the script. Ideally, all data processing is automated, such that script can generate figures and tables for publication by running a single script. 
 
 
 ## Open access policy
