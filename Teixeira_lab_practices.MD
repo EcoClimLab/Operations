@@ -23,6 +23,6 @@ Scientific data and code are valuable resources that we wish to preserve indefin
 ## Tools
 All new members should install, create accounts (if necessary), and get oriented to the following tools, which are essential for collaborative projects in our lab: 
 - Dropbox, including the desktop app. Note that Smithsonian provides free Dropbox Business accounts.
-- Github, including the desktop app. 
+- GitHub, including the desktop app. 
 - Data analysis software (R and/ or Matlab)
 - A reference manager: Zotero and/ or Mendeley, or one that is intercompatible with both.
