@@ -7,6 +7,8 @@ Researchers in the lab are expected to be familiar with lab procedures (outlined
 
 This is a working document, and lab procedures are subject to change. Lab members are encouraged to provide feedback and ideas to help improve practices. 
 
+Not all projects are currently up to speed with these guidelines, but we are striving to adopt these procedures with all new projects and to bring ongiong projects up to speed. 
+
 ## Overview
 - Scientific workflow is grouped into “projects”. A project is typically creation of a data set and/or an intended publication.
 - Each project has shared materials managed in two locations:
