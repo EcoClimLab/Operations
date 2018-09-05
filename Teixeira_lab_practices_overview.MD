@@ -20,7 +20,7 @@ Scientific data and code are valuable resources that we wish to preserve indefin
 - Data work is separated into distinct (but often closely integrated) phases:
   - [Data creation](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/tree/master)- This phase consists of collecting, entering, and checking data. Data creators are responsible to correct data errors/ provide updated versions.
   - [Data analysis](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/blob/master/data_creation.MD)- This phase consists of preparing code to analyze raw data files. Data analysts do not change the original files – everything goes in the script. Ideally, all data processing is automated, such that script can generate figures and tables for publication by running a single script. 
-  - [(Presentation/ publication)](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/new/master)- This phase consists of preparing publications or presentations. 
+  - [Publication/ Presentation](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/blob/master/publication_presentation.MD)- This phase consists of preparing publications or presentations. 
 - Each project has shared materials managed in two locations:
   - GitHub: data, code, and results. Access to the Github repository will be given to lab members and external collaborators working on data production and analysis. GitHub is also used to manage scientific workflow/ track "issues". 
   - Dropbox: manuscript, references, other supporting documents. Dropbox facilitates sharing with all collaborators (not just data analysts on Github). 
