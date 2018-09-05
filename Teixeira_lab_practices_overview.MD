@@ -10,7 +10,7 @@ This is a working document, and lab procedures are subject to change. Lab member
 ## Overview
 - Scientific workflow is grouped into “projects”. A project is typically creation of a data set and/or an intended publication.
 - Each project has shared materials managed in two locations:
-  - Github: data, code, and results. Access to the Github repository will be given to lab members working on data production and analysis. GitHub is also used to manage scientific workflow/ track "issues". 
+  - GitHub: data, code, and results. Access to the Github repository will be given to lab members working on data production and analysis. GitHub is also used to manage scientific workflow/ track "issues". 
   - Dropbox: manuscript, references, other supporting documents. Access to the Dropbox repository will be given to all project collaborators.
 - Data work is separated into two distinct (but often closely integrated) phases:
   - [Data creation](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/tree/master)- This phase consists of collecting, entering, and checking data. Data creators are responsible to correct data errors/ provide updated versions.
