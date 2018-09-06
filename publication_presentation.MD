@@ -12,3 +12,6 @@
   - ‘References’ – pdfs of references useful for this project. May also contain presentations, notes, etc.
   - ‘Presentations’ – presentations about the project 
      - ‘zArchive’ – contains outdated versions, non-editable copies.
+
+## General practices
+- References should be inserted with a reference manager (Zotero, Mendeley, or one that is compatible with both).
