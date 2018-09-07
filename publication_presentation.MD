@@ -14,4 +14,4 @@
      - ‘zArchive’ – contains outdated versions, non-editable copies.
 
 ## General practices
-- References should be inserted with a reference manager (Zotero, Mendeley, or one that is compatible with both).
+- References should *always* be inserted with a reference manager (Zotero, Mendeley, or one that is compatible with both).
