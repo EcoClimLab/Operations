@@ -28,7 +28,13 @@ Scientific data and code are valuable resources that we wish to preserve indefin
 
 ## Tools
 The following tools are vital to our scientific workflow. All new members should install, create accounts (if necessary), and get oriented with them. 
-- Dropbox, including the desktop app. Note that Smithsonian provides free Dropbox Business accounts.
-- GitHub, including the desktop app. For orientation, you can start with the [training materials from Mauro Lepore](https://github.com/nmnh-r-users/meetups/blob/master/research-with-github/research-with-github.md).
-- Data analysis software (R and/ or Matlab)
-- A reference manager: Zotero and/ or Mendeley, or one that is intercompatible with both.
+
+- [ ] GitHub, including the desktop app. 
+  - Create account [here](https://github.com). You can request unlimited free private repos [here](https://education.github.com/discount_requests/new). Your request will more likely be successful if you use an @edu email account.
+  - Install GitHub desktop.
+  - GitHub learning resources:
+    - GitHub [“Hello world”](https://guides.github.com/activities/hello-world/)  
+    - [Training resources from ForestGEO developer Mauro Leopore](https://github.com/nmnh-r-users/meetups/blob/master/research-with-github/research-with-github.md)   
+- [ ] Data analysis software (R and/ or Matlab)
+- [ ] A reference manager: Zotero and/ or Mendeley, or one that is intercompatible with both.
+- [ ] Dropbox, including the desktop app. Note that Smithsonian provides free Dropbox Business accounts.
