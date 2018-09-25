@@ -36,6 +36,7 @@ The following tools are vital to our scientific workflow. All new members should
     - GitHub [“Hello world”](https://guides.github.com/activities/hello-world/)  
     - [Training resources from ForestGEO developer Mauro Leopore](https://github.com/nmnh-r-users/meetups/blob/master/research-with-github/research-with-github.md)   
     - Book about GitHub: [*Happy Git with R*](http://happygitwithr.com/)
+    - *Advanced*: Prepare a book using GitHub ([BookDown](https://bookdown.org/yihui/bookdown/))
 - [ ] Data analysis software (R and/ or Matlab)
 - [ ] A reference manager: Zotero and/ or Mendeley, or one that is intercompatible with both.
 - [ ] Dropbox, including the desktop app. Note that Smithsonian provides free Dropbox Business accounts.
