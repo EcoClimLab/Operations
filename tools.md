@@ -13,6 +13,7 @@
 - R can be downloaded [here](https://www.r-project.org/). R Studio is [here](https://www.rstudio.com/).
 - Learning resources:
   - [Swirl](https://swirlstats.com/)
+  - [*R for Data Science*](http://r4ds.had.co.nz/)
 
 ## Reference manager
 - Zotero and/ or Mendeley, or one that is intercompatible with both.
