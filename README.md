@@ -11,7 +11,7 @@ Researchers in the lab are expected to be familiar with lab procedures (outlined
 
 Not all projects are currently up to speed with these guidelines, but we are striving to adopt these procedures with all new projects and to bring ongiong projects up to speed. 
 
-This is a working document, and lab procedures are subject to change. Lab members are encouraged to provide feedback and ideas to help improve practices. 
+This is a working document, and lab procedures are subject to change. Lab members and collaborators are encouraged to provide feedback and ideas to help improve practices. 
 
 
 ## Open access policy
@@ -19,7 +19,7 @@ Scientific data and code are valuable resources that we wish to preserve indefin
 
 
 ## Workflow overview
-- Scientific workflow is grouped into “projects”. A project is typically creation of a data set and/or an intended publication.
+- Scientific workflow is grouped into “projects”. A project is typically creation of a data set (which may be used in multiple publications) and/or an individual publication (which may draw upon multiple data sets).
 - Data work is separated into distinct (but often closely integrated) phases:
   - [Data creation](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/tree/master)- This phase consists of collecting, entering, and checking data. Data creators are responsible to correct data errors/ provide updated versions.
   - [Data analysis](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/blob/master/data_creation.MD)- This phase consists of preparing code to analyze raw data files. Data analysts do not change the original files – everything goes in the script. Ideally, all data processing is automated, such that script can generate figures and tables for publication by running a single script. 
