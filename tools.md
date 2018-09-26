@@ -1,4 +1,4 @@
-# Tools
+# Tools & Learning Resources
 
 ## GitHub
 - Create account [here](https://github.com). You can request unlimited free private repos [here](https://education.github.com/discount_requests/new). Your request will more likely be successful if you use an @edu email account.
@@ -16,7 +16,10 @@
   - [*R for Data Science*](http://r4ds.had.co.nz/)
 
 ## Reference manager
-- Zotero and/ or Mendeley, or one that is intercompatible with both.
+Download and install/ get familiar with one of these, or one that is intercompatible with both.
+- [Zotero](https://www.zotero.org/) 
+  - [style repositories](https://www.zotero.org/styles)
+- [Mendeley](https://www.mendeley.com/)
 
 ## Dropbox
 - Get Dropbox account, install Desktop app. Note that Smithsonian provides free Dropbox Business accounts.
