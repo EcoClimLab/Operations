@@ -38,6 +38,6 @@ The following tools are vital to our scientific workflow. All new members should
     - Book about GitHub: [*Happy Git with R*](http://happygitwithr.com/)
     - *Advanced*: Prepare a book using GitHub ([BookDown](https://bookdown.org/yihui/bookdown/))
 - [ ] Data analysis software (R and R Studio/ or Matlab)
-  - R can be downloaded [here](www.r-project.org), R Studio is [here](https://www.rstudio.com/)
+  - R can be downloaded [here](https://www.r-project.org/). R Studio is [here](https://www.rstudio.com/).
 - [ ] A reference manager: Zotero and/ or Mendeley, or one that is intercompatible with both.
 - [ ] Dropbox, including the desktop app. Note that Smithsonian provides free Dropbox Business accounts.
