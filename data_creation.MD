@@ -17,13 +17,13 @@ Data updates should be saved frequently to a shared storage location (e.g., GitH
 ### Loading to Github
 Once new or updated data sheets have been screened by someone with expertise in the data set, they are pushed to GitHub along with comments as to what data have been added/ what changes have been made. 
 
-### Sharing/ collaborating outside the lab
-- When collaborating with people who do not use Github, there will be two versions of data and code: master_shared and master_KATlab 
+### Collaborations / Data sharing 
+- When collaborating on data creation with researchers who do not use GitHub, there will be two versions of data (or code): master_shared and master_KATlab 
      - master_shared is the version that is shared with the other research group. This version may be housed in any file sharing system. It is understood that both research groups have their own internal processes and quality control procedures for updating this version. 
      - master_KATlab is the version that is managed according to our scientific workflow procedures. It is managed on GitHub. 
        - When we update the master, that update is recorded in Github, and we also copy the new master to master_shared. 
        - When the other research group updates the master, we load the new version to Github as a branch. It is then reconciled with and merged into master_KATlab. If changes are required, we record those on Github and update master_shared.
--	Ways to share Github information outside the lab
+-	Ways to share Github information with non-GitHub users
       - For an entire repository
          - Make the repository public
           - Create a guest account, give password
