@@ -4,7 +4,7 @@
 ## About these guidelines
 This document provides an overview of guidelines, along with links to more detailed guidelines, for scientic workflow and data management in Dr. Anderson-Teixeira's lab. These guidelines are informed by best-practices guidance for scientific workflow and data management and adjusted to fit the needs of our lab. They are not intended as strict rules (especially when it comes to details), but are designed to ensure good practices and consistency throughout the lab. 
 
-Researchers in the lab are expected to be familiar with lab procedures (outlined here) and ensure that their practices are compatible with these procedures. Pre-PhD researchers are asked to follow these guidelines closely, and should view implementation of these practices as a learning opportunity that will benefit their future scientific careers. Postdocs may have more leeway to follow their own system, providing that they use solid scientific workflow/ data management practices that can be integrated with lab practices. Researchers in the lab should develop plans for data management and scientific workflow in conjunction with their supervisor at the beginning of each project. 
+Researchers in the lab are expected to be familiar with lab procedures (outlined here) and ensure that their practices are compatible with these procedures. Pre-PhD researchers are asked to follow these guidelines closely, and should view implementation of these practices as a learning opportunity that will benefit their future scientific careers. Postdocs may have more leeway to follow their own system, providing that they use solid scientific workflow/ data management practices that can be integrated with lab practices. Researchers in the lab should develop plans for data management and scientific workflow in conjunction with their mentor at the beginning of each project. 
 
 Not all projects are currently up to speed with these guidelines, but we are striving to adopt these procedures with all new projects and to bring ongiong projects up to speed. 
 
@@ -15,7 +15,7 @@ This is a working document, and lab procedures are subject to change. Lab member
 Scientific data and code are valuable resources that we wish to preserve indefinitely, long beyond the lifespan of a project or even the researchers involved. Policies of the U.S. government, the Smithsonian, funding agencies, and most journals require that scientific data be made publicly available in a timely manner. Moreover, ensuring preservation of work effort and reproducibility of results requires public archiving of code. Our lab strives to follow best practices so as to ensure the long-term value of our data and code. **All researchers should work under the expectation that all data and code will be made public**, either immediately or upon publication of the first manuscript using them.
 
 
-## Workflow Overview
+## Workflow overview
 - Scientific workflow is grouped into “projects”. A project is typically creation of a data set and/or an intended publication.
 - Data work is separated into distinct (but often closely integrated) phases:
   - [Data creation](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/tree/master)- This phase consists of collecting, entering, and checking data. Data creators are responsible to correct data errors/ provide updated versions.
@@ -26,18 +26,8 @@ Scientific data and code are valuable resources that we wish to preserve indefin
   - Dropbox: manuscript, references, other supporting documents. Dropbox facilitates sharing with all collaborators (not just data analysts on Github). 
 
 
-## Tools
-The following tools are vital to our scientific workflow. All new members should install, create accounts (if necessary), and get oriented with them. 
+## For new lab members
+1. Please review the documents in this repository
+2. Discuss research/ data management plans with your mentor
+3. Get oriented with the [tools](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/blob/master/tools.md) that are vital to our scientific workflow. If necessary, install, create accounts, and teach yourself the basics of how to use these. 
 
-- [ ] GitHub, including the desktop app. 
-  - Create account [here](https://github.com). You can request unlimited free private repos [here](https://education.github.com/discount_requests/new). Your request will more likely be successful if you use an @edu email account.
-  - Install GitHub desktop.
-  - GitHub learning resources:
-    - GitHub [“Hello world”](https://guides.github.com/activities/hello-world/)  
-    - [Training resources from ForestGEO developer Mauro Leopore](https://github.com/nmnh-r-users/meetups/blob/master/research-with-github/research-with-github.md)   
-    - Book about GitHub: [*Happy Git with R*](http://happygitwithr.com/)
-    - *Advanced*: Prepare a book using GitHub ([BookDown](https://bookdown.org/yihui/bookdown/))
-- [ ] Data analysis software (R and R Studio/ or Matlab)
-  - R can be downloaded [here](https://www.r-project.org/). R Studio is [here](https://www.rstudio.com/).
-- [ ] A reference manager: Zotero and/ or Mendeley, or one that is intercompatible with both.
-- [ ] Dropbox, including the desktop app. Note that Smithsonian provides free Dropbox Business accounts.
