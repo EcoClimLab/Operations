@@ -12,9 +12,9 @@ To facilitate data entry by individuals without expertise in the data set (pract
 ### Updating/ correcting data
 When data are being added to an existing data sheet or new data are being added, the file to be modified is the current master on Github (see also the section on sharing/ collaborating outside the lab). 
 
-Data updates should be saved frequently to a shared storage location (e.g., GitHub, Google spreadsheets, lab hard drive). At a minimum, this should happen at the end of each day during whhich data were modified.  
+Data updates should be saved frequently to a shared storage location (e.g., GitHub, Google spreadsheets, lab hard drive). At a minimum, this should happen at the end of each day during which data were modified.  
 
-### Loading to Gitub
+### Loading to Github
 Once new or updated data sheets have been screened by someone with expertise in the data set, they are pushed to GitHub along with comments as to what data have been added/ what changes have been made. 
 
 ### Sharing/ collaborating outside the lab
@@ -27,7 +27,7 @@ Once new or updated data sheets have been screened by someone with expertise in 
       - For an entire repository
          - Make the repository public
           - Create a guest account, give password
-        - Make a website for the repository 
+        - Make a website for the repository. Read about Github pages [here](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/).
       - For a single folder within a private repository
          - Put Github repository in Dropbox, share just the desired folder
          - Move the folder to a separate repository
