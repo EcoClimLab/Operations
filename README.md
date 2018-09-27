@@ -1,4 +1,4 @@
-# Data Management & Scientfic Workflow
+# Data Management & Scientific Workflow
 
 ## ForestGEO Ecosystems & Climate Lab @ SCBI
 
