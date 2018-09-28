@@ -8,7 +8,7 @@
   - **Raw data:** Data analysis starts with data file(s) passed from the data creation step or from a collaborator. 
       - These original files are preserved exactly as is (not even renamed), and should be accompanied by information on where they were obtained and any restrictions/ conditions on use.
       - Even for data produced within our lab, best practice is to keep a separate copy of the data file for analysis. This is so that (1) updates to the data file don’t break the code, (2) analyses can always be exactly reproduced 
-      - These files should be read-only.
+      - These files should be read-only (at least in practice, may also change file permisisons).
   - **Intermediary data products:** If data require intermediary processing to be useful for analysis, and if this processing step is not fast or hard to automate, an intermediary data product may be stored. 
       - Best practice is that the process of getting from raw data to this intermediary data product be fully automated.
       - If full automation of this process is extremely time consuming or the analyst cannot figure out how to automate it, manual transformation may be considered. Consideration of this option should weight the possibility that the original data file will be updated—perhaps multiple times—requiring that the manual step be repeated. If any manual transformations are done, they must be thoroughly documented so that they can be exactly repeated.
@@ -38,6 +38,6 @@
      - ‘raw_data’ – data files on
         - Accompanying README file should describe source/ conditions of use
      - ‘processed_data’- intermediary data products
-  - Code: ‘scripts’
+  - Code: ‘scripts’ / 'src'
    - May contain sub-folders if necessary
   - Results: ‘results’ or ‘output’
