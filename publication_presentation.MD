@@ -1,8 +1,8 @@
 # Publication /Presentation
 ## ForestGEO Ecosystems & Climate Lab @ SCBI
 
-- At least for now, preparation of publications/ presentations is managed through Dropbox, which facilitates sharing with all collaborators (not just data analysts on Github).
-- It may be preferable to eventually move to Rmarkdown in order to better integrate data analysis and manuscript preparation.
+- Ideally/ eventually, it would be good to prepare manuscripts using Markdown & GitHub. However, at least for now, preparation of most publications/ presentations is managed through Dropbox, which facilitates sharing with all collaborators (not just GitHub users).
+- Google Docs could also provide a good option. 
 
 ## Organization
 - The following are recommended contents & naming conventions for Drobpox folder organization.
