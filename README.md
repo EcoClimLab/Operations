@@ -5,7 +5,7 @@
 This repository is focused on the lab's scientific workflow and data management, including procedures and resources. 
 
 ## About these guidelines
-These guidelines are informed by best-practices guidance for scientific workflow and data management and adjusted to fit the needs of our lab. They are not intended as strict rules (especially when it comes to details), but are designed to ensure good practices and consistency throughout the lab. 
+These guidelines are informed by best (or ["good enough"](https://doi.org/10.1371/journal.pcbi.1005510)) practices guidance for scientific workflow and data management and adjusted to fit the needs of our lab. They are not intended as strict rules (especially when it comes to details), but are designed to ensure good practices and consistency throughout the lab. 
 
 Researchers in the lab are expected to be familiar with lab procedures (outlined here) and ensure that their practices are compatible with these procedures. Researchers who are not yet very experienced with data management and best practices in scientific workflow are asked to follow these guidelines closely, and should view implementation of these practices as a learning opportunity that will benefit their future scientific careers. Those with more experience may have more leeway to follow their own system, providing that they use solid scientific workflow/ data management practices that can be integrated with lab practices. Researchers in the lab should develop plans for data management and scientific workflow in conjunction with their mentor at the beginning of each project. 
 
@@ -24,10 +24,12 @@ Scientific data and code are valuable resources that we wish to preserve indefin
   - [Data creation](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/tree/master)- This phase consists of collecting, entering, and checking data. Data creators are responsible to correct data errors/ provide updated versions.
   - [Data analysis](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/blob/master/data_creation.MD)- This phase consists of preparing code to analyze raw data files. Data analysts do not change the original files – everything goes in the script. Ideally, all data processing is automated, such that script can generate figures and tables for publication by running a single script. 
   - [Publication/ Presentation](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/blob/master/publication_presentation.MD)- This phase consists of preparing publications or presentations. 
-- Each project has shared materials managed in two locations:
+- Each project typically has shared materials managed in 2-3 locations:
   - GitHub: data, code, and results. Access to the Github repository will be given to lab members and external collaborators working on data production and analysis. GitHub is also used to manage scientific workflow/ track "issues". 
     - Note that GitHub + RStudio can provide a great environment for preparing publications, but for now most projects will use Word/ sharing in Dropbox. 
   - Dropbox: manuscript, references, other supporting documents. Dropbox facilitates sharing with all collaborators (not just those using GitHub). 
+  - SCBI's file server: large files, such as images (e.g., scans of leaves or tree cores), map data, massive data sets
+ 
 
 
 ## For new lab members
