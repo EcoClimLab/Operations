@@ -1,7 +1,7 @@
 # Tools & Learning Resources
 
 ## GitHub
-- Create account [here](https://github.com). You can request unlimited free private repos [here](https://education.github.com/discount_requests/new). Your request will more likely be successful if you use an @edu email account.
+- Create account [here](https://github.com). If desired, you can request unlimited free private repos [here](https://education.github.com/discount_requests/new). These will be useful if you end up adopting GitHub for work outside this lab. Your request will more likely be successful if you use an @edu email account.
 - Install a desktop app to interface with GitHub: [GitHub desktop app](https://desktop.github.com/) or [Sourcetree](https://www.sourcetreeapp.com/).
 - GitHub learning resources:
   - GitHub [“Hello world”](https://guides.github.com/activities/hello-world/)  
