@@ -18,7 +18,7 @@
 ## Reference manager
 Download and install/ get familiar with one of these, or one that is intercompatible with both.
 - [Zotero](https://www.zotero.org/) 
-  - [style repositories](https://www.zotero.org/styles)
+  - [style repositories](https://www.zotero.org/styles) (A citation style library with the styles of all major journals. Use whichever is the journal we’re writing for).
 - [Mendeley](https://www.mendeley.com/)
 
 ## Dropbox
