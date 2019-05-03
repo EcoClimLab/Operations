@@ -1,16 +1,18 @@
 # Publication /Presentation
 ## ForestGEO Ecosystems & Climate Lab @ SCBI
 
-- Ideally/ eventually, it would be good to prepare manuscripts using Markdown & GitHub. However, at least for now, preparation of most publications/ presentations is managed through Dropbox, which facilitates sharing with all collaborators (not just GitHub users).
-- Google Docs could also provide a good option. 
+Current projects use one of three methods for manuscript preparation:
+- Markdown & GitHub 
+- Google Docs 
+- Word files managed through Dropbox
 
-## Organization
+## Dropbox organization
 - The following are recommended contents & naming conventions for Drobpox folder organization.
-  - README file- identifies/ links to accompanying Github repository 
-  - ‘Manuscript’ – manuscript version.
+  - README file- identifies/ links to accompanying GitHub repository 
+  - ‘Manuscript’ – current manuscript version
      - ‘zArchive’ – contains all but the latest version
   - ‘References’ – pdfs of references useful for this project. May also contain presentations, notes, etc.
-  - ‘Presentations’ – presentations about the project 
+  - ‘Presentations’ – most recent version(s) of presentations about the project 
      - ‘zArchive’ – contains outdated versions, non-editable copies.
 
 ## General practices
