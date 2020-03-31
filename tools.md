@@ -4,7 +4,8 @@
 - Create account [here](https://github.com). If desired, you can request unlimited free private repos [here](https://education.github.com/discount_requests/new). These will be useful if you end up adopting GitHub for work outside this lab. Your request will more likely be successful if you use an @edu email account.
 - Install a desktop app to interface with GitHub: [GitHub desktop app](https://desktop.github.com/) or [Sourcetree](https://www.sourcetreeapp.com/).
 - GitHub learning resources:
-  - GitHub [“Hello world”](https://guides.github.com/activities/hello-world/)  
+  - GitHub [“Hello world”](https://guides.github.com/activities/hello-world/) 
+  - [GitHub guides](https://guides.github.com/)
   - [Training resources from ForestGEO developer Mauro Leopore](https://github.com/nmnh-r-users/meetups/blob/master/research-with-github/research-with-github.md)   
   - Book about GitHub: [*Happy Git with R*](http://happygitwithr.com/)
   - *Advanced*: Prepare a book using GitHub ([BookDown](https://bookdown.org/yihui/bookdown/))
