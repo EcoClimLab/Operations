@@ -35,3 +35,4 @@ Scientific data and code are valuable resources that we wish to preserve indefin
 
 ## Useful references:
 - Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510). PLoS Comput Biol 13(6): e1005510.
+- White et al. (2013). [Nine simple ways to make it easier to (re)use your data ](https://ojs.library.queensu.ca/index.php/IEE/article/view/4608). Ideas in Ecology and Evolution.
