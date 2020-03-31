@@ -3,6 +3,9 @@
 
 Our lab’s (internal) master versions of most data sets are mananged and archived on GitHub. GitHub is used to track data versions, record what changes have been made, and back up old versions. It is also used to record communications about the data (“issues”).
 
+## Data Format
+For guidelines on formatting data sets, see [Nine simple ways to make it easier to (re)use your data](https://ojs.library.queensu.ca/index.php/IEE/article/view/4608).
+
 ## Procedures:
 ### Data entry
 For individuals with expertise in the data set (research assistants, postdocs, etc.), data files may be produced and updated using any program. 
