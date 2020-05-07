@@ -6,7 +6,7 @@
 - GitHub learning resources:
   - GitHub [“Hello world”](https://guides.github.com/activities/hello-world/) 
   - [GitHub guides](https://guides.github.com/)
-  - [Training resources from ForestGEO developer Mauro Leopore](https://github.com/nmnh-r-users/meetups/blob/master/research-with-github/research-with-github.md)   
+  - [Training resources from former ForestGEO developer Mauro Leopore](https://github.com/nmnh-r-users/meetups/blob/master/research-with-github/research-with-github.md)   
   - [*Happy Git with R*](http://happygitwithr.com/)- book about using GitHub in conjunction with R
   - *Advanced*: Prepare a book using GitHub ([BookDown](https://bookdown.org/yihui/bookdown/))
  
