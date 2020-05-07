@@ -5,9 +5,9 @@
 This repository is focused on the lab's scientific workflow and data management, including procedures and resources. 
 
 ## About these guidelines
-These guidelines are informed by best (or ["good enough"](https://doi.org/10.1371/journal.pcbi.1005510)) practices guidance for scientific workflow and data management and adjusted to fit the needs of our lab. They are not intended as strict rules (especially when it comes to details), but are designed to ensure good practices and consistency throughout the lab. 
+These guidelines are informed by best (or ["good enough"](https://doi.org/10.1371/journal.pcbi.1005510)) practices guidance for scientific workflow and data management and adjusted to fit the needs of our lab. They are not intended as strict rules, but are designed to ensure good practices and consistency throughout the lab. 
 
-Researchers who are not yet very experienced with data management and best practices in scientific workflow are asked to follow these guidelines closely, and should view implementation of these practices as a learning opportunity that will benefit their future scientific careers. Those with more experience may have more leeway to follow their own system, providing that they use solid scientific workflow/ data management practices that can be integrated with lab practices as needed. 
+Researchers who are not yet very experienced with data management and best practices in scientific workflow are asked to follow these guidelines, and should view implementation of these practices as a learning opportunity that will benefit their future scientific careers. Those with more experience have more leeway to follow their own system, providing that they use solid scientific workflow/ data management practices that can be integrated with lab practices as needed. 
 
 This is a working document. Lab members and collaborators are encouraged to provide feedback and ideas to help improve practices. 
 
