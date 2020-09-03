@@ -6,6 +6,8 @@ Our lab’s (internal) master versions of most data sets are mananged and archiv
 ## Data Format
 For guidelines on formatting data sets, see [Nine simple ways to make it easier to (re)use your data](https://ojs.library.queensu.ca/index.php/IEE/article/view/4608).
 
+See also [Ten Simple Rules for Digital Data Storage](https://doi.org/10.1371/journal.pcbi.1005097)
+
 ## Procedures:
 ### Data entry
 For individuals with expertise in the data set (research assistants, postdocs, etc.), data files may be produced and updated using any program. 
