@@ -11,6 +11,7 @@
   - [Swirl](https://swirlstats.com/)
   - [*R for Data Science*](http://r4ds.had.co.nz/)
   - [ModernDive](https://moderndive.com/index.html)
+ - R markdown templates for manuscript preparation: [This looks useful; I haven't tried it yet](https://github.com/Pakillo/rmdTemplates)
   
 ## GitHub
 - Create an account [here](https://github.com). If desired, you can request unlimited free private repos [here](https://education.github.com/discount_requests/new). These will be useful if you end up adopting GitHub for work outside this lab. Your request will more likely be successful if you use an @edu email account.
@@ -26,5 +27,6 @@
 Download and install/ get familiar with one of these, or one that is intercompatible with both. These can integrate with Microsoft Word or R Markdown.
 - [Zotero](https://www.zotero.org/) 
   - [style repositories](https://www.zotero.org/styles) (A citation style library with the styles of all major journals. Use whichever is the journal we’re writing for).
+  - automate updating of BibTex library for use with .Rmd! [Instructions here.](https://ikashnitsky.github.io/2019/zotero/ )
 - [Mendeley](https://www.mendeley.com/)
 
