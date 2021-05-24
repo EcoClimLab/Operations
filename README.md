@@ -26,12 +26,7 @@ Scientific data and code are valuable resources that we wish to preserve indefin
   - GitHub: data, code, results, and sometimes manuscripts. Access to the Github repository will be given to lab members and external collaborators working on data production and analysis. GitHub is also used to manage scientific workflow/ track "issues". 
   - Dropbox: manuscript, references, other supporting documents. Dropbox facilitates sharing with all collaborators (not just those using GitHub). 
   - SCBI's file server: large files, such as images (e.g., scans of leaves or tree cores), map data, massive data sets
- 
 
-## For new lab members
-1. Please review the documents in this repository
-2. Discuss research/ data management plans with your mentor
-3. Get oriented with the [tools](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/blob/master/tools.md) that are vital to our scientific workflow. If necessary, install, create accounts, and teach yourself the basics of how to use these. 
 
 ## Useful references:
 - Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510). PLoS Comput Biol 13(6): e1005510.
