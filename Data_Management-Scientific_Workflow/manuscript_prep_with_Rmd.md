@@ -55,7 +55,7 @@ Need two files (both saved in same folder as .Rmd):
 
 ### software needed
 - Zotero
-- 
+  - need to download Better BibTex add-on for Zotero: https://retorque.re/zotero-better-bibtex/installation/
 
 ### generating the .bib file
 #### step 1. set up Zotero preferences to generate a citation key
