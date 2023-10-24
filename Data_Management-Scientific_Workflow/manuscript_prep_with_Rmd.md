@@ -10,15 +10,24 @@
 
 ## Output
 - .Rmd can be knit to output .pdf, .docx, or .html.
-- We use .docx most of the time, .pdf or .html for some specialized purposes
+
 
 ### .docx
+- We use .docx most commonly
 #### Advantages
-- most journals require submissions in .docx
-- easiest for sending to non-GitHub coauthors for feedback
+- most journals require submissions (once accepted) in .docx
+- easiest for sending to non-GitHub coauthors for feedback (as Word doc or Google doc)
 
 #### Distadvantages
-- some formatting can be trickier
+- some formatting can be tricky or occasionally impossible
+
+
+#### Header content:
+<img width="861" alt="image" src="https://github.com/EcoClimLab/Operations/assets/6355854/a5fe8947-4b10-4d55-b6c9-185199e2d111">
+
+#### tips
+- formatting can be (largely) controlled by creating a word-styles-reference.docx file, as explained [here](https://rmarkdown.rstudio.com/articles_docx.html)
+- R package [flextable](https://cran.r-project.org/web/packages/flextable/index.html) is good for tables- [guide](https://ardata-fr.github.io/flextable-book/)
 
 
 ### .pdf
