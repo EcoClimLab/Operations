@@ -1,6 +1,6 @@
 # Data Management & Scientific Workflow
 
-## ForestGEO Ecosystems & Climate Lab @ SCBI
+## ForestGEO Ecosystems & Climate Lab @ NZCBI
 
 This repository is focused on the lab's scientific workflow and data management, including procedures and resources. 
 
@@ -21,11 +21,11 @@ Scientific data and code are valuable resources that we wish to preserve indefin
 - Data work is separated into distinct (but often closely integrated) phases:
   - [Data creation](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/blob/master/data_creation.MD)- This phase consists of collecting, entering, and checking data. Data creators are responsible to correct data errors/ provide updated versions.
   - [Data analysis](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/blob/master/data_analysis.MD)- This phase consists of preparing code to analyze raw data files. Data analysts do not change the original files – everything goes in the script. Ideally, all data processing is automated, such that script can generate figures and tables for publication by running a single script. 
-  - [Publication/ Presentation](https://github.com/EcoClimLab/Data_Management-Scientific_Workflow/blob/master/publication_presentation.MD)- This phase consists of preparing publications or presentations. This can be done within or outside of GitHub. We have recently used R Markdown in GitHub to prepare some publications (which has advantages and disadvantages).
-- Each project typically has shared materials managed in 2-3 locations:
-  - GitHub: data, code, results, and sometimes manuscripts. Access to the Github repository will be given to lab members and external collaborators working on data production and analysis. GitHub is also used to manage scientific workflow/ track "issues". 
-  - Dropbox: manuscript, references, other supporting documents. Dropbox facilitates sharing with all collaborators (not just those using GitHub). 
-  - SCBI's file server: large files, such as images (e.g., scans of leaves or tree cores), map data, massive data sets
+  - Publication/ Presentation - This phase consists of preparing publications or presentations. This can be done within or outside of GitHub. We use [R Markdown in GitHub](https://github.com/EcoClimLab/Operations/blob/master/Data_Management-Scientific_Workflow/manuscript_prep_with_Rmd.md) to prepare most publications.
+- Each project typically has shared materials managed in  locations:
+  - GitHub: data, code, results, manuscripts, and other supporting documents. Access to the Github repository will be given to lab members and external collaborators working on data production and analysis. GitHub is also used to manage scientific workflow/ track "issues".
+  - shared Zotero libraries with references
+  - NZCBI's file server: large files, such as images (e.g., scans of leaves or tree cores), map data, massive data sets
 
 
 ## Useful references:
