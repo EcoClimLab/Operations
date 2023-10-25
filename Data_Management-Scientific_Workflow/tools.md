@@ -30,3 +30,8 @@ Download and install/ get familiar with one of these, or one that is intercompat
   - automate updating of BibTex library for use with .Rmd! [Instructions here.](https://ikashnitsky.github.io/2019/zotero/ )
 - [Mendeley](https://www.mendeley.com/)
 
+### Scientific writing guidance
+- Following the [Nature summary paragraph structure](https://www.nature.com/documents/nature-summary-paragraph.pdf) produces good abstracts.
+- [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) 
+
+
