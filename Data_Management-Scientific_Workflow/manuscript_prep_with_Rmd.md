@@ -3,6 +3,8 @@
 ## Why .Rmd?
 - .Rmd files integrate seemlessly with R and GitHub, allowing integration of code and version control/ reproducibility 
 - .Rmd files can be opened / edited in Rstudio, and knit into HTML, PDF, or DOCX files with the push of a button.
+- Although it's slower to get started, it ultimately saves a lot of time and effort (for example, manually redoing tables, statistics, figure numbers...)
+- One convenient feature is being able to include comments that will invisible once the document is knit. I like to use this to write notes about references, keep track of details that don't need to go in the manuscript, link to GitHub issues, etc.
 
 ## General how-to / introductory guides
 - [Composing reproducible manuscripts using R Markdown](https://elifesciences.org/labs/cad57bcf/composing-reproducible-manuscripts-using-r-markdown)
