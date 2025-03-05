@@ -72,6 +72,8 @@ This can be adjusted in settings:
 Your citation key format can be whatever you want, but collaboration is easiest when citation key formats match. 
 Here's Krista's citation key format: `auth.lower+"_"+veryshorttitle(1,1).lower+"_"+year`
 
+If Zotero has already generated citation keys when you modify the citation key format, you will need to select the items you want to update, right-click on them, and choose "Refresh BibTeX key". 
+
 #### step 2. generate the .bib file
 I create a separate Zotero library for each manuscript/ project. 
 One advantage of this is that you have a smaller library and it's easier to troubleshoot issues with the .bib file. 
