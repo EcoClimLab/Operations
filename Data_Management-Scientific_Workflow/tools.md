@@ -14,7 +14,7 @@
  - R markdown templates for manuscript preparation: [This looks useful; I haven't tried it yet](https://github.com/Pakillo/rmdTemplates)
   
 ## GitHub
-- Create an account [here](https://github.com). If desired, you can request unlimited free private repos [here](https://github.com/settings/education/benefits). These will be useful if you end up adopting GitHub for work outside this lab. Your request will more likely be successful if you use an @edu email account.
+- Create an account [here](https://github.com). It is useful to [request an education account](https://github.com/settings/education/benefits), with benefits including unlimited private repos. These will be useful if you end up adopting GitHub for work outside this lab. Your request may be more likely be successful if you use an .edu email account.
 - Install a desktop app to interface with GitHub: [GitHub desktop app](https://desktop.github.com/) or [Sourcetree](https://www.sourcetreeapp.com/).
 - GitHub learning resources:
   - GitHub [“Hello world”](https://guides.github.com/activities/hello-world/) 
